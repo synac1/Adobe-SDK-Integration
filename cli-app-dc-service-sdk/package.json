@@ -1,0 +1,15 @@
+{
+  "name": "pdf_creator",
+  "bin": "./pdf_creator.js",
+  "version": "1.0.0",
+  "description": "This file converts from static HTML in zip folder to pdf file",
+  "author": "Adobe, Yanilda Peralta",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "@adobe/dc-services-node-sdk": "1.0.0"
+  }
+}
